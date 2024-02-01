@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Arjit Kedia</h1>
-<h3 align="center">A passionate web Developer and Software Enginner from India</h3>
-<a href='https://fascinating-raindrop-35b6dc.netlify.app/'>Portfolio</a>
+<img src="https://i.ibb.co/jzDxfCR/header.png"/>
+<div align="center"><h1><a href='https://fascinating-raindrop-35b6dc.netlify.app/'>Portfolio</a></h1></div>
 
-- 🔭 I’m currently working on **a Hackathon Website**
 
-- 🌱 I’m currently learning **NextJs,NodeJs**
+- 🔭 I’m currently working on **A Customer Website**
+
+- 🌱 I’m currently learning **Application of Mern and 3d website designing**
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **arjitkedia982@gmail.com**
-
-- 📄 Know about my experiences [https://lavender-lizzie-93.tiiny.site](https://lavender-lizzie-93.tiiny.site)
 
 - ⚡ Fun fact **I am great in holding conversations**
 
