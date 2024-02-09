@@ -1,5 +1,6 @@
-<img src="https://i.ibb.co/jzDxfCR/header.png"/>
-<div align="center"><h1><a href='https://fascinating-raindrop-35b6dc.netlify.app/'>Portfolio</a></h1></div>
+<h1>Arjit Kedia</h1>
+<h2>Web Developer</h2>
+<div align="center"><h1><a href='https://arjit-portfolio.vercel.app/'>Portfolio</a></h1></div>
 
 
 - 🔭 I’m currently working on **A Customer Website**
