@@ -2,17 +2,19 @@
 <h2>Web Developer</h2>
 <div align="center"><h1><a href='https://arjit-portfolio.vercel.app/'>Portfolio</a></h1></div>
 
--     Upcoming SDE at **SAP Labs India**
--     Ex- Intern at ** Smart Labs - SAP Labs India**
-- 🔭 I’m currently working on **Nothing**
+- Upcoming SDE at **SAP Labs India**
+- 
+- Ex- Intern at ** Smart Labs - SAP Labs India**
+- 
+- I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **react**
+- Ask me about **react**
 
-- 📫 How to reach me **arjitkedia982@gmail.com**
+- How to reach me **arjitkedia982@gmail.com**
 
-- ⚡ Fun fact **I am great in holding conversations**
+- Fun fact **I am great in holding conversations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
