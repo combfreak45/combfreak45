@@ -12,7 +12,7 @@
 
 - Ask me about **MERN Stack**
 
-- How to reach me **arjitkedia982@gmail.com**
+- Reach me at **arjitkedia982@gmail.com**
 
 - Fun fact **I am great in holding conversations**
 
