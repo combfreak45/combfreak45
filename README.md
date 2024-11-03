@@ -10,7 +10,7 @@
 
 - I’m currently learning **Cloud Computing**
 
-- Ask me about **react**
+- Ask me about **MERN Stack**
 
 - How to reach me **arjitkedia982@gmail.com**
 
