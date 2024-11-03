@@ -4,7 +4,7 @@
 
 - Upcoming SDE at **SAP Labs India**
   
-- Ex- Intern at ** Smart Labs - SAP Labs India**
+- Ex- Intern at **Smart Labs - SAP Labs India**
   
 - I’m currently working on **Nothing**
 
