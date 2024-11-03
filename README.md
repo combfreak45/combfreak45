@@ -3,9 +3,9 @@
 <div align="center"><h1><a href='https://arjit-portfolio.vercel.app/'>Portfolio</a></h1></div>
 
 
-- 🔭 I’m currently working on **A Customer Website**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Application of Mern and 3d website designing**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 💬 Ask me about **react**
 
