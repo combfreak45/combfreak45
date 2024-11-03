@@ -8,7 +8,7 @@
   
 - I’m currently working on **Card-Memory-Game**
 
-- I’m currently learning **Cloud Computing**
+- I’m currently learning **Redux**
 
 - Ask me about **MERN Stack**
 
