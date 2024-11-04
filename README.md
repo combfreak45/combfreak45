@@ -17,10 +17,10 @@
 - Fun fact **I am great in holding conversations**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arjit-kedia-06041a236" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjit-kedia-06041a236" height="30" width="40" /></a>
-<a href="https://instagram.com/nothing_23_why" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nothing_23_why" height="30" width="40" /></a>
-<a href="https://www.behance.net/arjit_visuals" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arjitkedia" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/fixer69" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fixer69" height="30" width="40" /></a>
-</p>
+   <p align="left">
+   <a href="https://linkedin.com/in/arjit-kedia-06041a236" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjit-kedia-06041a236" height="30" width="40" /></a>
+   <a href="https://instagram.com/nothing_23_why" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nothing_23_why" height="30" width="40" /></a>
+   <a href="https://www.behance.net/arjit_visuals" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arjitkedia" height="30" width="40" /></a>
+   <a href="https://auth.geeksforgeeks.org/user/fixer69" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fixer69" height="30" width="40" /></a>
+   </p>
 
