@@ -4,8 +4,6 @@
 
 - Working at **SAP Labs India**
   
-- Former SDE intern at **Smart Labs - SAP Labs India**
-  
 - I’m currently working on **Card-Memory-Game**
 
 - Ask me about **MERN Stack**
