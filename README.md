@@ -3,14 +3,12 @@
 <div align="center"><h1><a href='https://arjit-portfolio.vercel.app/'>Portfolio</a></h1></div>
 
 - Working at **SAP Labs India**
-  
-- I’m currently working on **Card-Memory-Game**
 
-- Ask me about **MERN Stack**
+- Ask me about **AI**
 
 - Reach me at **arjitkedia982@gmail.com**
 
-- Fun fact **I am great in holding conversations**
+- Fun fact **I know how to play classical instruments**
 
 <h3 align="left">Connect with me:</h3>
    <p align="left">
